@@ -1,0 +1,54 @@
+/* style/style.css */
+
+body {
+    background-color: #f8f9fa; /* Cor de fundo padrão para o corpo */
+}
+
+header {
+    background-color: #dc3545; /* Vermelho para o cabeçalho */
+}
+
+footer {
+    background-color: #dc3545; /* Vermelho para o rodapé */
+}
+
+.btn-primary {
+    background-color: #dc3545; /* Vermelho para os botões principais */
+    border-color: #dc3545; /* Borda vermelha para o botão */
+}
+
+.btn-primary:hover {
+    background-color: #c82333; /* Tom mais escuro de vermelho no hover */
+    border-color: #bd2130; /* Borda mais escura no hover */
+}
+
+.text-light {
+    color: #000000; /* Branco para o texto no cabeçalho e rodapé */
+}
+
+.hero {
+    background-color: #000000; /* Vermelho para a seção hero */
+    color: #fff; /* Branco para o texto na seção hero */
+}
+
+.nav-link {
+    color: #000000; /* Branco para links de navegação */
+}
+
+.nav-link:hover {
+    color: #000000; /* Cor de hover para links de navegação */
+}
+
+.social-media a {
+    color: #fff; /* Branco para os ícones de mídia social */
+}
+
+.social-media a:hover {
+    color: #f8f9fa; /* Cor de hover para ícones de mídia social */
+}
+.bg-dark {
+    background-color: #000000 !important;
+}
+.nav-link {
+    color: #161616;
+}
